@@ -1,0 +1,30 @@
+p   {
+    text-align: justify;
+    color: black;
+
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body    {
+     background-image: url("../DaveSunshine.jpg");
+    background-size: cover;
+}
+
+h1  {
+    color: white;
+    text-align: center;
+}
+h2  {
+    color: white;
+    font-size: large;
+}
+h3  {
+    color: black;
+    font-size: larger;
+}
+
+li  {
+    color:black;
+    font-size: 16x;
+}
